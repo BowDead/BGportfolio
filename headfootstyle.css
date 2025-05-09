@@ -149,13 +149,13 @@
     .image {
         border: #c5bc1e solid 3px;
         border-radius: 10px;
-        width: 107px;
-        height: 107px;
+        width: 90px;
+        height: 90px;
         margin-right: 10px;
     }
     .row1 h1 {
         margin-left: 10px;
-        font-size: larger;
+        font-size: x-large;
     }
 }
 
@@ -224,8 +224,8 @@
     .image {
         border: #c5bc1e solid 3px;
         border-radius: 10px;
-        width: 107px;
-        height: 107px;
+        width: 80px;
+        height: 80px;
         margin-right: 10px;
     }
     .row1 h1 {
