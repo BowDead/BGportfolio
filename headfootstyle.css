@@ -2,6 +2,7 @@
     font-family: Inter;
     padding: 0;
     margin: 0;
+    color: #b2b2b2;
 }
 @media (min-width: 1024px) {
     body {
@@ -54,19 +55,6 @@
         justify-content:center;
         width: 80%;
     }
-    .content {
-        margin: auto;
-        width: 80%;
-        background-color: #540368;
-        position: relative;
-        z-index: 1;
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-    .content h2 {
-        margin: 30px;
-        margin-top: 0;
-    }
     
     .footer {
         background-color: #8900a8;
@@ -77,14 +65,6 @@
         z-index: 10;
         text-align: center;
         padding: 15px;
-    }
-    .textfield {
-        background-color: #140119;
-        margin-right: 30px;
-        margin-left: 30px;
-        border: #c5bc1e solid 3px;
-        border-radius: 10px;
-        padding: 20px;
     }
     
     .przycisk {
@@ -112,13 +92,6 @@
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-    body {
-        margin: 0;
-        background: #540368;
-        background: linear-gradient(rgba(84, 3, 104, 1) 0%, rgba(20, 1, 25, 1) 75%, rgba(84, 3, 104, 1) 100%);
-        background-attachment: fixed;
-        color: #b2b2b2;
-    }
     .header1 {
         display: none;
     }
@@ -153,19 +126,6 @@
         width: 80%;
         margin: 10px 0;
     }
-    .content {
-        margin: auto;
-        width: 80%;
-        background-color: #540368;
-        position: relative;
-        z-index: 1;
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-    .content h2 {
-        margin: 30px;
-        margin-top: 0;
-    }
     
     .footer {
         background-color: #8900a8;
@@ -176,14 +136,6 @@
         z-index: 10;
         text-align: center;
         padding: 15px;
-    }
-    .textfield {
-        background-color: #140119;
-        margin-right: 30px;
-        margin-left: 30px;
-        border: #c5bc1e solid 3px;
-        border-radius: 10px;
-        padding: 20px;
     }
     
     .przycisk {
@@ -214,13 +166,6 @@
 }
 
 @media (max-width: 787px) {
-    body {
-        margin: 0;
-        background: #540368;
-        background: linear-gradient(rgba(84, 3, 104, 1) 0%, rgba(20, 1, 25, 1) 75%, rgba(84, 3, 104, 1) 100%);
-        background-attachment: fixed;
-        color: #b2b2b2;
-    }
     .header1 {
         display: none;
     }
@@ -240,33 +185,20 @@
     }
     .row1 {
         display: flex;
-        width: 80%;
+        width: 90%;
         justify-content: center;
         align-items: center;
         margin: 15px 0;
     }
     .row2 {
         display: flex;
-        width: 80%;
+        width: 90%;
         margin: 10px 0;
     }
     .row3 {
         display: flex;
-        width: 80%;
+        width: 90%;
         margin: 10px 0;
-    }
-    .content {
-        margin: auto;
-        width: 80%;
-        background-color: #540368;
-        position: relative;
-        z-index: 1;
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-    .content h2 {
-        margin: 30px;
-        margin-top: 0;
     }
     
     .footer {
@@ -278,14 +210,6 @@
         z-index: 10;
         text-align: center;
         padding: 15px;
-    }
-    .textfield {
-        background-color: #140119;
-        margin-right: 30px;
-        margin-left: 30px;
-        border: #c5bc1e solid 3px;
-        border-radius: 10px;
-        padding: 20px;
     }
     
     .przycisk {
