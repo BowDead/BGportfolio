@@ -5,13 +5,6 @@
     color: #b2b2b2;
 }
 @media (min-width: 1024px) {
-    body {
-        margin: 0;
-        background: #540368;
-        background: linear-gradient(rgba(84, 3, 104, 1) 0%, rgba(20, 1, 25, 1) 75%, rgba(84, 3, 104, 1) 100%);
-        background-attachment: fixed;
-        color: #b2b2b2;
-    }
     .header2 {
         display: none;
     }
@@ -236,5 +229,6 @@
     }
     .row1 h1 {
         margin-left: 10px;
+        font-size: larger;
     }
 }
