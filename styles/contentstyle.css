@@ -220,3 +220,6 @@
 #content-container .textfield:hover {
     transform: scale(1.02);
 }
+ul {
+    padding: 0 30px;
+}

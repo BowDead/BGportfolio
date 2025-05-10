@@ -41,6 +41,7 @@ function renderPagination() {
 function renderContent() {
     const contentContainer = document.getElementById('content-container');
     contentContainer.innerHTML = ''; // Czyszczenie poprzedniej zawartości
+    
 
     // Obliczanie indeksów dla wyświetlanych danych
     const startIndex = (currentPage - 1) * itemsPerPage;
@@ -55,7 +56,7 @@ function renderContent() {
         listItem.addEventListener('click', () => {
             // Zapisanie wybranego elementu w localStorage i przejście do strony szczegółów
             localStorage.setItem('selectedItem', JSON.stringify(item));
-            window.location.href = 'details.html';
+            window.location.href = `details.html?page=${currentPage}`; // Dodanie aktualnej strony do URL
         });
         contentContainer.appendChild(listItem); // Dodanie elementu do kontenera
     });
@@ -63,6 +64,9 @@ function renderContent() {
 
 // Funkcja wykonywana przy załadowaniu strony
 window.onload = function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    currentPage = parseInt(urlParams.get('page')) || 1;
+
     renderContent(); // Renderowanie zawartości
     renderPagination(); // Renderowanie paginacji
     injectHeader('head1', 'header1'); // Funkcja do wstawiania nagłówków (jeśli istnieje)

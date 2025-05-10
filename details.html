@@ -11,6 +11,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kalam:wght@300;400;700&display=swap" rel="stylesheet">
     <script>
         window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const currentPage = urlParams.get('page') || 1; // Pobranie bieżącej strony z URL
             const selectedItem = JSON.parse(localStorage.getItem('selectedItem'));
             if (selectedItem) {
                 document.getElementById('caption').textContent = selectedItem.caption;
@@ -19,6 +21,10 @@
                 document.getElementById('caption').textContent = 'No item selected.';
                 document.getElementById('description').textContent = '';
             }
+
+            const returnerLink = document.querySelector('.returner');
+            returnerLink.href = `list.html?page=${currentPage}`; // Aktualizacja linku "Powrót"
+
             injectHeader('head1', 'header1');
             injectHeader('head2', 'header2');
         }
