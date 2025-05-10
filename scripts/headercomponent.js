@@ -14,7 +14,7 @@ function fillHeader1() {
                 <a class="przycisk" href="list.html">
                     Moje Projekty
                 </a>
-                <a class="przycisk" href="colums.html">
+                <a class="przycisk" href="columns.html">
                     Moje Umiejętności
                 </a>
                 <a class="przycisk" href="contact.html">
@@ -39,7 +39,7 @@ function fillHeader2() {
             </a>
         </div>
         <div class="row3">
-            <a class="przycisk" href="colums.html">
+            <a class="przycisk" href="columns.html">
                 Moje Umiejętności
             </a>
             <a class="przycisk" href="contact.html">
