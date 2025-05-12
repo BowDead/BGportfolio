@@ -281,10 +281,5 @@
     h3 {
         font-size: 18px;
     }
-    .przycisk:hover {
-    background-color: #540368;
-    color: #fff;
-    border-color: #dfd406;
-    transform: scale(1.05);
-    }
+
 }
