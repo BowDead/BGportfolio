@@ -119,11 +119,11 @@
     justify-content:space-evenly;
 }
 
-#content-container .textfield {
-    min-width: 300px;
+    #content-container .textfield {
+        min-width: 250px;
+    }
+}
 
-}
-}
 
 @media (min-width: 768px) and (max-width: 1023px) {
     body {
@@ -400,4 +400,47 @@ ul {
         display: flex;
         flex-direction: column;
         align-items: center;
+}
+
+/*dodatkowe rozdzielczości bo nie działa jak bym chciał z %*/
+@media (min-width: 1100px) {
+    #content-container .textfield {
+        min-width: 300px;
+    }
+}
+
+@media (min-width: 1250px) {
+    #content-container .textfield {
+        min-width: 350px;
+    }
+}
+
+@media (min-width: 1500px) {
+    #content-container .textfield {
+        min-width: 450px;
+    }
+}
+
+@media (min-width: 1750px) {
+    #content-container .textfield {
+        min-width: 500px;
+    }
+}
+
+@media (min-width: 2000px) {
+    #content-container .textfield {
+        min-width:600px;
+    }
+}
+
+@media (min-width: 2250px) {
+    #content-container .textfield {
+        min-width:700px;
+    }
+}
+
+@media (min-width: 2500px) {
+    #content-container .textfield {
+        min-width:800px;
+    }
 }
