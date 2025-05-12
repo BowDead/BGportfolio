@@ -111,6 +111,18 @@
     margin-right: -15px;
     transform: scale(1.35);
 }
+#content-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+    justify-content:space-evenly;
+}
+
+#content-container .textfield {
+    min-width: 300px;
+
+}
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
@@ -233,6 +245,7 @@
     height: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
+    transform: scale(1.05);
 }
     
 }
@@ -358,6 +371,7 @@
     height: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
+    transform: scale(1.05);
 }
 
 }
