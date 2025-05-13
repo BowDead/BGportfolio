@@ -1,14 +1,54 @@
 const data = [
-    { "id": 1, "caption": "Caption 1", "description": "Description 1" },
-    { "id": 2, "caption": "Caption 2", "description": "Description 2" },
-    { "id": 3, "caption": "Caption 3", "description": "Description 3" },
-    { "id": 4, "caption": "Caption 4", "description": "Description 4" },
-    { "id": 5, "caption": "Caption 5", "description": "Description 5" },
-    { "id": 6, "caption": "Caption 6", "description": "Description 6" },
-    { "id": 7, "caption": "Caption 5", "description": "Description 5" },
-    { "id": 8, "caption": "Caption 6", "description": "Description 6" },
-    { "id": 9, "caption": "Caption 5", "description": "Description 5" },
-    { "id": 10, "caption": "Caption 6", "description": "Description 6" }
+    { 
+        "id": 1, 
+        "caption": "Gra Snake", 
+        "description": "Prosta gra napisana w języku Java, odtwarzająca klasyczny tytuł 'Snake' w wersji gridless. Użytkownik steruje wężem, zbiera punkty i unika kolizji ze ścianami, samym sobą lub wrogami." 
+    },
+    { 
+        "id": 2, 
+        "caption": "Symulator GOPR", 
+        "description": "Symulacja ruchu turystów oraz zwierząt w górach pozwalająca na dużą customizację warunków symulacyjnych. Przeznaczona do testowania systemu analitycznego dla takich sygnałów" 
+    },
+    { 
+        "id": 3, 
+        "caption": "Zagadkomat", 
+        "description": "Interaktywna aplikacja mobilna z zestawem zagadek logicznych obrazkowych. Użytkownik ma możliwość rozwiązywania zagadek o różnym poziomie trudności oraz tworzenia własnych." 
+    },
+    { 
+        "id": 4, 
+        "caption": "Rejestr GOPR", 
+        "description": "System bazodanowy, którego zadaniem jest zapisywanie i przechowywanie zdarzeń, które wystąpiły podczas trwania symulacji." 
+    },
+    { 
+        "id": 5, 
+        "caption": "Wyświetlacz GOPR", 
+        "description": "Aplikacja wizualizująca dane przechowywane w rejestrze GOPR w celu ich analizy lub modyfikacji. Napisana w Java Spring." 
+    },
+    { 
+        "id": 6, 
+        "caption": "Portfolio", 
+        "description": "Interaktywne portfolio programistyczne prezentujące moje projekty oraz umiejętności. Aplikacja responsywna i estetyczna w miarę moich możliwości." 
+    },
+    { 
+        "id": 7, 
+        "caption": "Placeholder 1", 
+        "description": "Wstępne miejsce na przyszły projekt, który zostanie dodany wkrótce. Obecnie w fazie koncepcyjnej." 
+    },
+    { 
+        "id": 8, 
+        "caption": "Placeholder 2", 
+        "description": "Zarezerwowane na kolejny projekt – szczegóły wkrótce. Prace trwają nad prototypem." 
+    },
+    { 
+        "id": 9, 
+        "caption": "Placeholder 3", 
+        "description": "Przygotowanie przestrzeni na nowy pomysł – więcej informacji już niebawem." 
+    },
+    { 
+        "id": 10, 
+        "caption": "Placeholder 4", 
+        "description": "Sekcja dla przyszłych projektów w trakcie opracowywania. Szczegóły pojawią się po ukończeniu pierwszej wersji." 
+    }
 ];
 
 // Określenie liczby elementów na stronie
