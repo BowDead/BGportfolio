@@ -52,10 +52,10 @@ Testy wizualne zostły przeprowadzone w następujących przeglądarkach:
 
 #### Zrzuty ekranu dla testów
 
-##### Chrome
-![Chrome Desktop](./screenshots/o_desktop.png)
-![Chrome Tablet](./screenshots/chrome_desktop_1920x1080.png)
-![Chrome mobile](./screenshots/chrome_desktop_1920x1080.png)
+##### Opera
+![Opera Desktop](screenshots/o_desktop.PNG)
+![Opera Tablet](screenshots/o_tablet.PNG)
+![Opera mobile](screenshots/o_mobile.PNG)
 
 ##### Firefox
 ![Firefox Tablet](./screenshots/firefox_tablet_768x1024.png)
