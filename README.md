@@ -1,8 +1,13 @@
 # Dokumentacja portfolio internetowego stworzonego na potrzeby projektu z przedmiotu: "Projektowanie interfejsów użytkownika II" 
 
 ## Wstęp
-Poniższy dokument opisuje strukturę portfolio internetowego, wykorzystane technologie przy tworzeniu serwisu oraz testy strony internetowej na 5 różnych przeglądarkach (Chrome, Edge, Safari, Firefox i Opera) w trzech rozdzielczościach na każdej przeglądarce.
+Poniższy dokument opisuje strukturę portfolio internetowego stworzonego w ramach projektu z przedmiotu Projektowanie interfejsów urzytkownika II,
+wykorzystane technologie przy tworzeniu strony oraz testy strony internetowej na 5 różnych przeglądarkach (Chrome, Edge, Safari, Firefox i Opera) w trzech rozdzielczościach na każdej przeglądarce.
 
+---
+## Adres strony
+
+#### https://bowdead.github.io/BGportfolio/
 ---
 
 ## Opis struktury serwisu
@@ -46,27 +51,34 @@ Testy wizualne zostły przeprowadzone w następujących przeglądarkach:
 2. **Tablet:** 768px szerokości
 3. **Smartfon:** 375px szerokości
 
-### Proces testowy
-
-
-
 #### Zrzuty ekranu dla testów
-
-##### Opera
+### Google
+![Google Desktop](screenshots/g_desktop.PNG)
+![Google Tablet](screenshots/g_tablet.PNG)
+![Google mobile](screenshots/g_mobile.PNG)
+### Opera
 ![Opera Desktop](screenshots/o_desktop.PNG)
 ![Opera Tablet](screenshots/o_tablet.PNG)
 ![Opera mobile](screenshots/o_mobile.PNG)
+### Firefox
+![Firefox Desktop](screenshots/f_desktop.PNG)
+![Firefox Tablet](screenshots/f_tablet.PNG)
+![Firefox mobile](screenshots/f_mobile.PNG)
+### Safari
+![Safari Desktop](screenshots/s_desktop.PNG)
+![Safari Tablet](screenshots/s_tablet.PNG)
+![Safari mobile](screenshots/s_mobile.PNG)
+### Edge
+![Edge Desktop](screenshots/e_desktop.PNG)
+![Edge Tablet](screenshots/e_tablet.PNG)
+![Edge mobile](screenshots/e_mobile.PNG)
 
-##### Firefox
-![Firefox Tablet](./screenshots/firefox_tablet_768x1024.png)
-
-##### Safari
-(./screenshots/safari_smartphone_375x812.png)
-
-##### Edge
-
-
+#### Uwagi
+- W przypdaku testów na safari kolory zdefiniowane w css odbiegały od reszty
+- Strona wygląda na to, że działa poprawnie i zachowuje responsywność niezależnie od przeglądarki
 ---
 
 ## Podsumowanie
-
+Po testach responsywności i działania na przeglądarkach: Google Chrome, Opera, Firefox, Safari i Edge. Strona spełnia swoje zadanie i działa
+w każdej z wyżej wymienionych przeglądarek internetowych. Strona ma prosty design spełniający wymagania projektowe, zdefiniowane style dla trzech
+zakresów rozdzielczości oraz obsługuje paginację i komponenty napisane w javascript.
