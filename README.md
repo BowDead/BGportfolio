@@ -54,28 +54,87 @@ Testy wizualne zostły przeprowadzone w następujących przeglądarkach:
 #### Zrzuty ekranu dla testów
 ### Google
 ![Google Desktop](screenshots/g_desktop.PNG)
+![Google Desktop](screenshots/g_desktop.PNG)
+![Google Desktop](screenshots/g_desktop.PNG)
+![Google Desktop](screenshots/g_desktop.PNG)
+![Google Desktop](screenshots/g_desktop.PNG)
+
 ![Google Tablet](screenshots/g_tablet.PNG)
+![Google Tablet](screenshots/g_tablet.PNG)
+![Google Tablet](screenshots/g_tablet.PNG)
+![Google Tablet](screenshots/g_tablet.PNG)
+![Google Tablet](screenshots/g_tablet.PNG)
+
+![Google mobile](screenshots/g_mobile.PNG)
+![Google mobile](screenshots/g_mobile.PNG)
+![Google mobile](screenshots/g_mobile.PNG)
+![Google mobile](screenshots/g_mobile.PNG)
 ![Google mobile](screenshots/g_mobile.PNG)
 ### Opera
 ![Opera Desktop](screenshots/o_desktop.PNG)
+![Opera Desktop](screenshots/o_desktop.PNG)
+![Opera Desktop](screenshots/o_desktop.PNG)
+![Opera Desktop](screenshots/o_desktop.PNG)
+![Opera Desktop](screenshots/o_desktop.PNG)
+
 ![Opera Tablet](screenshots/o_tablet.PNG)
+![Opera Tablet](screenshots/o_tablet.PNG)
+![Opera Tablet](screenshots/o_tablet.PNG)
+![Opera Tablet](screenshots/o_tablet.PNG)
+![Opera Tablet](screenshots/o_tablet.PNG)
+
+![Opera mobile](screenshots/o_mobile.PNG)
+![Opera mobile](screenshots/o_mobile.PNG)
+![Opera mobile](screenshots/o_mobile.PNG)
+![Opera mobile](screenshots/o_mobile.PNG)
 ![Opera mobile](screenshots/o_mobile.PNG)
 ### Firefox
 ![Firefox Desktop](screenshots/f_desktop.PNG)
+![Firefox Desktop](screenshots/f2_desktop.PNG)
+![Firefox Desktop](screenshots/f3_desktop.PNG)
+![Firefox Desktop](screenshots/f4_desktop.PNG)
+![Firefox Desktop](screenshots/f5_desktop.PNG)
+
 ![Firefox Tablet](screenshots/f_tablet.PNG)
+![Firefox Tablet](screenshots/f2_tablet.PNG)
+![Firefox Tablet](screenshots/f3_tablet.PNG)
+![Firefox Tablet](screenshots/f4_tablet.PNG)
+![Firefox Tablet](screenshots/f5_tablet.PNG)
+
 ![Firefox mobile](screenshots/f_mobile.PNG)
+![Firefox mobile](screenshots/f2_mobile.PNG)
+![Firefox mobile](screenshots/f3_mobile.PNG)
+![Firefox mobile](screenshots/f4_mobile.PNG)
+![Firefox mobile](screenshots/f5_mobile.PNG)
+### Edge
+![Edge Desktop](screenshots/e_desktop.PNG)
+![Edge Desktop](screenshots/e_desktop.PNG)
+![Edge Desktop](screenshots/e_desktop.PNG)
+![Edge Desktop](screenshots/e_desktop.PNG)
+![Edge Desktop](screenshots/e_desktop.PNG)
+
+![Edge Tablet](screenshots/e_tablet.PNG)
+![Edge Tablet](screenshots/e_tablet.PNG)
+![Edge Tablet](screenshots/e_tablet.PNG)
+![Edge Tablet](screenshots/e_tablet.PNG)
+![Edge Tablet](screenshots/e_tablet.PNG)
+
+![Edge mobile](screenshots/e_mobile.PNG)
+![Edge mobile](screenshots/e_mobile.PNG)
+![Edge mobile](screenshots/e_mobile.PNG)
+![Edge mobile](screenshots/e_mobile.PNG)
+![Edge mobile](screenshots/e_mobile.PNG)
 ### Safari
 ![Safari Desktop](screenshots/s_desktop.PNG)
 ![Safari Tablet](screenshots/s_tablet.PNG)
 ![Safari mobile](screenshots/s_mobile.PNG)
-### Edge
-![Edge Desktop](screenshots/e_desktop.PNG)
-![Edge Tablet](screenshots/e_tablet.PNG)
-![Edge mobile](screenshots/e_mobile.PNG)
+
 
 #### Uwagi
 - W przypdaku testów na safari kolory zdefiniowane w css odbiegały od reszty
-- Strona wygląda na to, że działa poprawnie i zachowuje responsywność niezależnie od przeglądarki
+- W mojej wersji safari (Windows) nie mogłem znaleść trybu responsywnego
+- Na wszystkich przeglądarkach strona działała poprawnie
+- Scrypty napisane w javascript działały na wszystkich przeglądarkach
 ---
 
 ## Podsumowanie
