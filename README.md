@@ -53,80 +53,87 @@ Testy wizualne zostły przeprowadzone w następujących przeglądarkach:
 
 #### Zrzuty ekranu dla testów
 ### Google
+##### DESKTOP
 ![Google Desktop](screenshots/g_desktop.PNG)
-![Google Desktop](screenshots/g_desktop.PNG)
-![Google Desktop](screenshots/g_desktop.PNG)
-![Google Desktop](screenshots/g_desktop.PNG)
-![Google Desktop](screenshots/g_desktop.PNG)
-
+![Google Desktop](screenshots/g2_desktop.PNG)
+![Google Desktop](screenshots/g3_desktop.PNG)
+![Google Desktop](screenshots/g4_desktop.PNG)
+![Google Desktop](screenshots/g5_desktop.PNG)
+##### TABLET
 ![Google Tablet](screenshots/g_tablet.PNG)
-![Google Tablet](screenshots/g_tablet.PNG)
-![Google Tablet](screenshots/g_tablet.PNG)
-![Google Tablet](screenshots/g_tablet.PNG)
-![Google Tablet](screenshots/g_tablet.PNG)
-
+![Google Tablet](screenshots/g2_tablet.PNG)
+![Google Tablet](screenshots/g3_tablet.PNG)
+![Google Tablet](screenshots/g4_tablet.PNG)
+![Google Tablet](screenshots/g5_tablet.PNG)
+##### MOBILE
 ![Google mobile](screenshots/g_mobile.PNG)
-![Google mobile](screenshots/g_mobile.PNG)
-![Google mobile](screenshots/g_mobile.PNG)
-![Google mobile](screenshots/g_mobile.PNG)
-![Google mobile](screenshots/g_mobile.PNG)
+![Google mobile](screenshots/g2_mobile.PNG)
+![Google mobile](screenshots/g3_mobile.PNG)
+![Google mobile](screenshots/g4_mobile.PNG)
+![Google mobile](screenshots/g5_mobile.PNG)
 ### Opera
+##### DESKTOP
 ![Opera Desktop](screenshots/o_desktop.PNG)
-![Opera Desktop](screenshots/o_desktop.PNG)
-![Opera Desktop](screenshots/o_desktop.PNG)
-![Opera Desktop](screenshots/o_desktop.PNG)
-![Opera Desktop](screenshots/o_desktop.PNG)
-
+![Opera Desktop](screenshots/o2_desktop.PNG)
+![Opera Desktop](screenshots/o3_desktop.PNG)
+![Opera Desktop](screenshots/o4_desktop.PNG)
+![Opera Desktop](screenshots/o5_desktop.PNG)
+##### TABLET
 ![Opera Tablet](screenshots/o_tablet.PNG)
-![Opera Tablet](screenshots/o_tablet.PNG)
-![Opera Tablet](screenshots/o_tablet.PNG)
-![Opera Tablet](screenshots/o_tablet.PNG)
-![Opera Tablet](screenshots/o_tablet.PNG)
-
+![Opera Tablet](screenshots/o2_tablet.PNG)
+![Opera Tablet](screenshots/o3_tablet.PNG)
+![Opera Tablet](screenshots/o4_tablet.PNG)
+![Opera Tablet](screenshots/o5_tablet.PNG)
+##### MOBILE
 ![Opera mobile](screenshots/o_mobile.PNG)
-![Opera mobile](screenshots/o_mobile.PNG)
-![Opera mobile](screenshots/o_mobile.PNG)
-![Opera mobile](screenshots/o_mobile.PNG)
-![Opera mobile](screenshots/o_mobile.PNG)
+![Opera mobile](screenshots/o2_mobile.PNG)
+![Opera mobile](screenshots/o3_mobile.PNG)
+![Opera mobile](screenshots/o4_mobile.PNG)
+![Opera mobile](screenshots/o5_mobile.PNG)
 ### Firefox
+##### DESKTOP
 ![Firefox Desktop](screenshots/f_desktop.PNG)
 ![Firefox Desktop](screenshots/f2_desktop.PNG)
 ![Firefox Desktop](screenshots/f3_desktop.PNG)
 ![Firefox Desktop](screenshots/f4_desktop.PNG)
 ![Firefox Desktop](screenshots/f5_desktop.PNG)
-
+##### TABLET
 ![Firefox Tablet](screenshots/f_tablet.PNG)
 ![Firefox Tablet](screenshots/f2_tablet.PNG)
 ![Firefox Tablet](screenshots/f3_tablet.PNG)
 ![Firefox Tablet](screenshots/f4_tablet.PNG)
 ![Firefox Tablet](screenshots/f5_tablet.PNG)
-
+##### MOBILE
 ![Firefox mobile](screenshots/f_mobile.PNG)
 ![Firefox mobile](screenshots/f2_mobile.PNG)
 ![Firefox mobile](screenshots/f3_mobile.PNG)
 ![Firefox mobile](screenshots/f4_mobile.PNG)
 ![Firefox mobile](screenshots/f5_mobile.PNG)
 ### Edge
+##### DESKTOP
 ![Edge Desktop](screenshots/e_desktop.PNG)
-![Edge Desktop](screenshots/e_desktop.PNG)
-![Edge Desktop](screenshots/e_desktop.PNG)
-![Edge Desktop](screenshots/e_desktop.PNG)
-![Edge Desktop](screenshots/e_desktop.PNG)
-
+![Edge Desktop](screenshots/e2_desktop.PNG)
+![Edge Desktop](screenshots/e3_desktop.PNG)
+![Edge Desktop](screenshots/e4_desktop.PNG)
+![Edge Desktop](screenshots/e5_desktop.PNG)
+##### TABLET
 ![Edge Tablet](screenshots/e_tablet.PNG)
-![Edge Tablet](screenshots/e_tablet.PNG)
-![Edge Tablet](screenshots/e_tablet.PNG)
-![Edge Tablet](screenshots/e_tablet.PNG)
-![Edge Tablet](screenshots/e_tablet.PNG)
-
+![Edge Tablet](screenshots/e2_tablet.PNG)
+![Edge Tablet](screenshots/e3_tablet.PNG)
+![Edge Tablet](screenshots/e4_tablet.PNG)
+![Edge Tablet](screenshots/e5_tablet.PNG)
+##### MOBILE
 ![Edge mobile](screenshots/e_mobile.PNG)
-![Edge mobile](screenshots/e_mobile.PNG)
-![Edge mobile](screenshots/e_mobile.PNG)
-![Edge mobile](screenshots/e_mobile.PNG)
-![Edge mobile](screenshots/e_mobile.PNG)
+![Edge mobile](screenshots/e2_mobile.PNG)
+![Edge mobile](screenshots/e3_mobile.PNG)
+![Edge mobile](screenshots/e4_mobile.PNG)
+![Edge mobile](screenshots/e5_mobile.PNG)
 ### Safari
+##### DESKTOP
 ![Safari Desktop](screenshots/s_desktop.PNG)
+##### TABLET
 ![Safari Tablet](screenshots/s_tablet.PNG)
+##### MOBILE
 ![Safari mobile](screenshots/s_mobile.PNG)
 
 
