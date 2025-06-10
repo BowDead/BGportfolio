@@ -142,7 +142,7 @@ Testy wizualne zostły przeprowadzone w następujących przeglądarkach:
 - W mojej wersji safari (Windows) nie mogłem znaleść trybu responsywnego
 - Na wszystkich przeglądarkach strona działała poprawnie
 - Scrypty napisane w javascript działały na wszystkich przeglądarkach
-- Na Operze musiałem odświerzyć szerokość w trybie responsywnym by się wymiary zaapilkowały
+- Na Operze musiałem odświerzyć szerokość w trybie responsywnym w szerokości tabletu by się wymiary zaapilkowały
 ---
 
 ## Podsumowanie
